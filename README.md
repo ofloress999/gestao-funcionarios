@@ -1,0 +1,1 @@
+Projeto em Java que registra funcionários, evita duplicação de IDs e permite aplicar aumento salarial com base em uma porcentagem informada pelo usuário. Desenvolvido para praticar conceitos de Programação Orientada a Objetos (POO) e uso de listas (ArrayList).
